@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-06062020-064311";"";
+"REFERENCE";"47346-0001";"";
+"TraceParts.PartTitle";"Micro USB B Receptacle Bottom Mount Assy";"";
+"TraceParts.InstanceId";"90-06062020-0643112N3XX9WWY2MK673V115V3T3RA";"";
+"DESIGN";"Micro USB B Receptacle Bottom Mount Assy";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"Molex";"";
+"TraceParts.PartVersion";"1.0.0";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"MOLEX:90-06062020-064311";"";

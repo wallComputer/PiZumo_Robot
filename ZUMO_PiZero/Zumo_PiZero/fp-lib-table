@@ -1,0 +1,13 @@
+(fp_lib_table
+  (lib (name "FDWS9510L-F085")(type "KiCad")(uri "${KIPRJMOD}/projectLibs/FDWS9510L-F085/FDWS9510L-F085.pretty")(options "")(descr ""))
+  (lib (name "JST-1x04_1mm")(type "KiCad")(uri "${KIPRJMOD}/projectLibs/JST-1x04_1mm/JST-1x04_1mm.pretty")(options "")(descr ""))
+  (lib (name "MOLEX_473460001")(type "KiCad")(uri "${KIPRJMOD}/projectLibs/MOLEX_473460001/MOLEX_473460001.pretty")(options "")(descr ""))
+  (lib (name "Raspberry_PI_ZERO_2_W")(type "KiCad")(uri "${KIPRJMOD}/projectLibs/RASPBERRY_PI/Raspberry_PI_ZERO_2_W.pretty")(options "")(descr ""))
+  (lib (name "TPS61088RHLR")(type "KiCad")(uri "${KIPRJMOD}/projectLibs/TPS61088RHLR/TPS61088RHLR_2.pretty")(options "")(descr ""))
+  (lib (name "BQ24232HRGTR")(type "KiCad")(uri "${KIPRJMOD}/projectLibs/ul_BQ24232HRGTR/KiCAD/2022-04-05_19-28-00/footprints.pretty")(options "")(descr ""))
+  (lib (name "SMMS0650")(type "KiCad")(uri "${KIPRJMOD}/projectLibs/SMMS0650/SMMS0650.pretty")(options "")(descr ""))
+  (lib (name "PowerBooster")(type "KiCad")(uri "${KIPRJMOD}/projectLibs/PowerBooster/PowerBooster.pretty")(options "")(descr ""))
+  (lib (name "RS-032G05A3-SMRT")(type "KiCad")(uri "${KIPRJMOD}/projectLibs/RS-032G05A3-SMRT/footprints.pretty")(options "")(descr ""))
+  (lib (name "DRV8833PWP")(type "KiCad")(uri "${KIPRJMOD}/projectLibs/ul_DRV8833PWP/DRV8833PWP.pretty")(options "")(descr ""))
+  (lib (name "Zumo_Padded_Holes")(type "KiCad")(uri "${KIPRJMOD}/projectLibs/Zumo_Padded_Holes/Zumo_Padded_Holes.pretty")(options "")(descr ""))
+)

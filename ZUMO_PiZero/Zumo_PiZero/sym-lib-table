@@ -1,0 +1,12 @@
+(sym_lib_table
+  (lib (name "RASPBERRY_PI_ZERO_2_W")(type "KiCad")(uri "${KIPRJMOD}/projectLibs/RASPBERRY_PI/RASPBERRY_PI_ZERO_2_W.kicad_sym")(options "")(descr ""))
+  (lib (name "TPS61088RHLR")(type "KiCad")(uri "${KIPRJMOD}/projectLibs/TPS61088RHLR/TPS61088RHLR.kicad_sym")(options "")(descr ""))
+  (lib (name "BQ24232HRGTR")(type "KiCad")(uri "${KIPRJMOD}/projectLibs/ul_BQ24232HRGTR/KiCAD/2022-04-05_19-28-00/2022-04-05_19-28-00.kicad_sym")(options "")(descr ""))
+  (lib (name "MOLEX_473460001")(type "KiCad")(uri "${KIPRJMOD}/projectLibs/MOLEX_473460001/47346-0001.kicad_sym")(options "")(descr ""))
+  (lib (name "FDWS9510L-F085")(type "KiCad")(uri "${KIPRJMOD}/projectLibs/FDWS9510L-F085/FDWS9510L-F085.kicad_sym")(options "")(descr ""))
+  (lib (name "STM32G030C8T6")(type "KiCad")(uri "${KIPRJMOD}/projectLibs/STM32G030C8T6/STM32G030C8T6.kicad_sym")(options "")(descr ""))
+  (lib (name "PowerBooster")(type "KiCad")(uri "${KIPRJMOD}/projectLibs/PowerBooster/PowerBooster.kicad_sym")(options "")(descr ""))
+  (lib (name "RS-032G05A3-SMRT")(type "KiCad")(uri "${KIPRJMOD}/projectLibs/RS-032G05A3-SMRT/RS-032G05A3-SMRT.kicad_sym")(options "")(descr ""))
+  (lib (name "DRV8833PWP")(type "KiCad")(uri "${KIPRJMOD}/projectLibs/ul_DRV8833PWP/DRV8833PWP.kicad_sym")(options "")(descr ""))
+  (lib (name "ZumoReflectanceSensorArray")(type "KiCad")(uri "${KIPRJMOD}/projectLibs/ZumoReflectanceSensorArray/ZumoReflectanceSensorArray.kicad_sym")(options "")(descr ""))
+)

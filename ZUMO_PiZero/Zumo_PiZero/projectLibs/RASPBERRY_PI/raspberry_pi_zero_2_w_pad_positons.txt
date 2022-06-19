@@ -1,0 +1,24 @@
+#Pin LABLEL	Function 			X 	Y
+41 STATUS_LED	Power state of LED (LOW = ON)	5.15	8.8
+42 CORE		Processor power			6.3	18.98
+43 RUN		Connect to GND to reset		8.37	22.69
+44 5V		5V Input			8.75	11.05
+45 5V		5V Input			11.21	6.3
+46 GND		Ground pin			10.9	3.69
+47 GND          Ground pin                      17.29	2.41
+48 USB_DP	USP port			22.55	1.92
+49 USB_DM	USB port			24.68	1.92
+50 OTG		On-the-go ID pin		39.9	7.42
+51 1V8		1.8V analog supply		42.03	8.42
+52 TV		Composite TV out		45.58	3.17
+53 GND		Ground pin			49.38	3.05
+54 GND		Ground pin			55.99	22.87
+55 3V3		3.3V I/O supply			48.55	22.44
+56 SD_CLK	SD Card clock pin		60.95	18.45
+57 SD_CMD	SD Card command pin		58.2	16.42
+58 SD_DAT0	SD data pin			58.13	20.42
+59 SD_DAT1	SD data pin			60.65	21.1
+60 SD_DAT2	SD data pin			57.78	13.57
+61 SD_DAT3	SD data pin			60.8	15.22
+62 BT_ON	Bluetooth power status		25.13	19.55
+63 WL_ON	Wireless LAN power status	27.7	19.2
